@@ -1,1 +1,4 @@
 http://boto3.readthedocs.io/en/latest/guide/ec2-example-managing-instances.html
+
+
+https://boto3.readthedocs.io/en/latest/reference/services/ec2.html#EC2.Client.describe_instances
